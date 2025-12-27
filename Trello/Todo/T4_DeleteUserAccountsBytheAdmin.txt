@@ -1,1 +1,1 @@
-hello
+As an Admin, I want to delete user accounts so that I can remove users who break system rules.
