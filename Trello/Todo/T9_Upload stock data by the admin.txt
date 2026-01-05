@@ -1,0 +1,1 @@
+As an Admin, I want to upload stock data so that the stock information is up-to-date.
