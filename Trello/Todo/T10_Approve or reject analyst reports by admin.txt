@@ -1,0 +1,1 @@
+As an Admin, I want to approve or reject analyst reports so that only verified and trusted content is published.
